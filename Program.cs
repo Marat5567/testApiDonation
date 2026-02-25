@@ -5,7 +5,7 @@ namespace testApiDonation
     {
         private const string ID_APPLICATION = "";
         private const string API_KEY = "";
-        private const string tokensFilePath = @"/root/API/Donation/tokens.json";
+        private const string tokensFilePath = @"";
         static async Task Main(string[] args)
         {
             try
