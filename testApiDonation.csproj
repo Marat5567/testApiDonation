@@ -9,10 +9,4 @@
     <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Reference Include="DonationApi">
-      <HintPath>..\..\..\..\Libraries\Donation\bin\Release\net8.0\DonationApi.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
